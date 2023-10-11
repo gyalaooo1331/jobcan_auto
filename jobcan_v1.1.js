@@ -17,11 +17,11 @@
 
 (function () {
     //---【定数の設定】----------------------------
-    const year = 2023;          // 年              |
-    const month = 11;           // 月              |
-    const startTime = "09:30";  // 開始時間        |
-    const endTime = "17:30";    // 終了時間        |
-    const restTime = "01:00";   // 休憩時間        |
+    const year = 2023;          // 年
+    const month = 11;           // 月
+    const startTime = "09:30";  // 開始時間
+    const endTime = "17:30";    // 終了時間
+    const restTime = "01:00";   // 休憩時間
     //---------------------------------------------
 
     // 日付をエポック秒に変換
