@@ -1,13 +1,11 @@
 # 使い方
 
-・DL
+・インストール
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja
 
-![Tampermonkey_01](https://github.com/gyalaooo1331/jobcan_auto/assets/123883630/d556b87e-a2f0-4e6e-9686-6ee31943855d)
-
-新規スクリプトを追加
-
-![Tampermonkey_02](https://github.com/gyalaooo1331/jobcan_auto/assets/123883630/5c238174-63fb-4eea-9e72-fb0fa53ffe05)
+![Tampermonkey_01](https://github.com/gyalaooo1331/jobcan_auto/assets/123883630/12c24c90-6648-4d7d-8a1c-d56924e84699)
+![Tampermonkey_02](https://github.com/gyalaooo1331/jobcan_auto/assets/123883630/1aad7abb-b001-42c4-a16c-099a63789ad0)
+![Tampermonkey_03](https://github.com/gyalaooo1331/jobcan_auto/assets/123883630/e5ef5024-293e-4236-b7bf-c63896fda619)
 
 ここにコピーでOK
 
